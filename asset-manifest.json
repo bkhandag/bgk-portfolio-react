@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/bgk-portfolio-react/static/css/main.4de0fa12.css",
+    "main.js": "/bgk-portfolio-react/static/js/main.5d0685e6.js",
+    "static/js/787.b431ffa9.chunk.js": "/bgk-portfolio-react/static/js/787.b431ffa9.chunk.js",
+    "static/media/AuctionSite.png": "/bgk-portfolio-react/static/media/AuctionSite.8c2d5de2a17f8538954e.png",
+    "static/media/myGrandmasRecipeBox.png": "/bgk-portfolio-react/static/media/myGrandmasRecipeBox.960d7b2b312f2907943f.png",
+    "static/media/work_day_scheduler.png": "/bgk-portfolio-react/static/media/work_day_scheduler.ac2c32b2f56b98515a1f.png",
+    "static/media/Generated-password.png": "/bgk-portfolio-react/static/media/Generated-password.e78239b3c17d2f178d8b.png",
+    "index.html": "/bgk-portfolio-react/index.html",
+    "main.4de0fa12.css.map": "/bgk-portfolio-react/static/css/main.4de0fa12.css.map",
+    "main.5d0685e6.js.map": "/bgk-portfolio-react/static/js/main.5d0685e6.js.map",
+    "787.b431ffa9.chunk.js.map": "/bgk-portfolio-react/static/js/787.b431ffa9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4de0fa12.css",
+    "static/js/main.5d0685e6.js"
+  ]
+}
