@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import pwimg from "../Images/Generated-password.png";
-import gmimg from "../Images/myGrandmasRecipeBox.png";
-import wsimg from "../Images/work_day_scheduler.png";
-import caimg from "../Images/AuctionSite.png";
+import pwimg from "./Images/Generated-password.png";
+import gmimg from "./Images/myGrandmasRecipeBox.png";
+import wsimg from "./Images/work_day_scheduler.png";
+import caimg from "./Images/AuctionSite.png";
 import ProjectCard from "./ProjectCard";
 
 const styles = {
@@ -23,7 +23,7 @@ function Portfolio() {
     {
       id: "1",
       title: "password generator",
-      description: "Example ",
+      description: "",
       img: pwimg,
       deployedLink: "https://bkhandag.github.io/Random-Password-Generator/",
       githubLink: "https://github.com/bkhandag/Random-Password-Generator",
@@ -33,24 +33,24 @@ function Portfolio() {
       title: "My Grandmas Recipe Box",
       description: "",
       img: gmimg,
-      deployedLink: "",
-      githubLink: "",
+      deployedLink: "https://nbulger1.github.io/my-recipes/",
+      githubLink: "https://github.com/nbulger1/my-recipes",
     },
     {
       id: "3",
       title: "Work Day Scheduler",
       description: "",
       img: wsimg,
-      deployedLink: "",
-      githubLink: "",
+      deployedLink: "https://bkhandag.github.io/work-day-scheduler/",
+      githubLink: "https://github.com/bkhandag/work-day-scheduler",
     },
     {
       id: "4",
       title: "Car Auction",
       description: "",
       img: caimg,
-      deployedLink: "",
-      githubLink: "",
+      deployedLink: "https://exotic-car-auction-abln.herokuapp.com/",
+      githubLink: "https://github.com/bkhandag/exotic-car-auctions",
     },
   ]);
   return (

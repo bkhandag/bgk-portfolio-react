@@ -3,6 +3,7 @@ import NavTabs from "./components/pages/NavTabs";
 import Home from "./components/pages/Home";
 import Contact from "./components/pages/Contact";
 import Portfolio from "./components/pages/Portfolio";
+import Resume from "./components/pages/Resume";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 export default function PortfolioContainer() {
@@ -15,6 +16,9 @@ export default function PortfolioContainer() {
     }
     if (currentPage === "Portfolio") {
       return <Portfolio />;
+    }
+    if (currentPage === "Resume") {
+      return <Resume />;
     }
     return <Contact />;
   };
